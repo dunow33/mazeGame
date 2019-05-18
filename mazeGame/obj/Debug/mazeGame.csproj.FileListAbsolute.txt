@@ -1,0 +1,10 @@
+C:\Users\dunow\source\repos\mazeGame\mazeGame\bin\Debug\mazeGame.exe.config
+C:\Users\dunow\source\repos\mazeGame\mazeGame\bin\Debug\mazeGame.exe
+C:\Users\dunow\source\repos\mazeGame\mazeGame\bin\Debug\mazeGame.pdb
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.csprojAssemblyReference.cache
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.Form1.resources
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.Properties.Resources.resources
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.csproj.GenerateResource.cache
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.csproj.CoreCompileInputs.cache
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.exe
+C:\Users\dunow\source\repos\mazeGame\mazeGame\obj\Debug\mazeGame.pdb
